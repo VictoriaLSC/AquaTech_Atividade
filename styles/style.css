@@ -119,3 +119,100 @@ background-color: var(--azul);
 .footer h4{
     margin-bottom: 0;
 }
+/* Cadastro*/
+.container .card{
+    display: flex;
+    width: 100%;
+    background-image: url(../assets/imgs/bg-jelly-fish-para-home.png);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+ .formulario{
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+
+}
+h2{
+    color:#e4005a;
+    text-align: center;
+
+}
+.quadro{
+    background-color: #dcdcdc;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+.campo{
+    color:#e4005a;
+    padding-top: 10px;
+
+
+}
+.input1{
+    width: 350px;
+    height: 20px;
+    border-radius:5px; 
+    padding-bottom: 5px;
+    text-align: center;
+    border-color:aqua;
+    padding-top: 5px;
+}
+.botao{
+    background-color: #e4005a;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border-color: #e4005a;
+}
+
+/* LOGIN */
+
+.caixa{
+    background-color: #dcdcdc;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+.input2{
+    width: 350px;
+    height: 20px;
+    border-radius:5px; 
+    padding-bottom: 5px;
+    text-align: center;
+    border-color:aqua;
+    padding-top: 5px;
+}
+.container .card{
+    display: flex;
+    width: 100%;
+    background-image: url(../assets/imgs/bg-jelly-fish-para-home.png);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+
+
+
+
